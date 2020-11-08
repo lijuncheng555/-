@@ -66,7 +66,7 @@
             }
 ```
 # 五、实验结果：
-![](https://github.com/lijuncheng555/java4/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008233023.png)
+![](https://github.com/lijuncheng555/java4/blob/main/d7319016085e26cd8f64a70f2ee05b2.png)
 # 六、实验感想：
 
 1.此次实验我会了如何利用implements，switch（）。
